@@ -1,0 +1,22 @@
+body{
+    display:flex;
+    flex-direction:row;
+}
+
+#menu{
+    color:aliceblue;
+    font-size:large;
+    display:flex;
+    flex-direction:column;
+    width:140px;
+    background-color:#e61919;
+    height:90vh;
+    align-items:center;
+
+}
+
+#item{
+    font-size: larger;
+    color:aliceblue;
+    margin-bottom: 20px ;
+}

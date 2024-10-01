@@ -4,6 +4,7 @@ Botão enorme de Chamar Garçom
 pedir
 tempo estimado
 
+
 <!-- Area dos pedidos -->
 Cozinha aceitar pedidos
 Garçom levar pedidos
